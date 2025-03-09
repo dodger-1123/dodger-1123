@@ -12,7 +12,7 @@ Hi! I'm Cody, a passionate developer focused on creating innovative and efficien
 - **[Heaven's Dungeon](#)** - My latest Unity-based game project!
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/codyjamesbrohman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/codyjamesbrohman)
 
 ## Fun Fact
 I made it to the second round of the Fortnite World Cup qualifiers. One round away from making it to the big tournament!
