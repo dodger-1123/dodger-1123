@@ -15,7 +15,7 @@ Hi! I'm Cody, a passionate developer focused on creating innovative and efficien
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/codyjamesbrohman)
 
 ## Fun Fact
-
+I made it to the second round of the Fortnite World Cup qualifiers. One round away from making it to the big tournament!
 
 ---
 **Feel free to explore my repositories and contribute!**
